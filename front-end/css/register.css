@@ -1,0 +1,35 @@
+@font-face {font-family: "BoosterNextFYW01-Bold";
+    src: url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/59a5f95fa6cbfbc6a7dfa063dee0ab1b.svg#BoosterNextFYW01-Bold") format("svg"); /* iOS 4.1- */
+}
+
+.kanan {
+    position: relative;
+    animation-name: example;
+    animation-duration: 0.8s;
+  }
+.test {
+    height: 50vh;
+    position: relative;
+    animation-name: test;
+    animation-duration: 0.8s;
+  }
+  @media only screen and (min-width: 768px) {
+    .test {
+      height: 100vh;
+    }
+  }
+  
+  @keyframes example {
+    0%   {left:-1000px; top:0px;}
+    100% {left:0px; top:0px;}
+  }
+
+  @keyframes test {
+    0% {right: -1000px; top:0px}
+    100%{right: 0px;}
+  }
