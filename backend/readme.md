@@ -26,4 +26,4 @@ By using the Procranius Public API, you agree to adhere to our fair use policy. 
 
 ## Contact Us
 
-If you have any questions or concerns about the Procranius Public API or our fair use policy, please don't hesitate to contact us at [contact information]. We are always happy to help and will do our best to respond promptly to all inquiries.
+If you have any questions or concerns about the Procranius Public API or our fair use policy, please don't hesitate to contact us at @drelArcanius on Twitter. We are always happy to help and will do our best to respond promptly to all inquiries.
