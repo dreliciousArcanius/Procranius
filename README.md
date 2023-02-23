@@ -21,4 +21,4 @@ Contributions are welcome! If you would like to contribute code, please fork the
 
 ## License
 
-Procranius is released under the MIT License. See LICENSE for details.
+Procranius is released under the CC0-1.0 License. See LICENSE for details.
